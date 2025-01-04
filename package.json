@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "express": "^4.21.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
@@ -39,5 +40,19 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arashgholiyan/todo-app-Using-Vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arashgholiyan/todo-app-Using-Vue/issues"
+  },
+  "homepage": "https://github.com/arashgholiyan/todo-app-Using-Vue#readme"
 }
