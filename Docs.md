@@ -95,6 +95,8 @@ Basic CSS: Styles the list for a clean and functional appearance.
 
 .completed-task: Applies a strike-through style to completed tasks.
 
+---
+
 ## Version 1 Changes
 
 ### Added Font Awesome Icons
@@ -126,6 +128,8 @@ Icon: Trash (Deletes the task).
 ### Code Cleanup
 
 Removed unnecessary lines to improve readability and maintainability.
+
+---
 
 ## Planned Improvements (Version 2)
 
